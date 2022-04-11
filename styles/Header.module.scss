@@ -1,0 +1,12 @@
+@import 'colors';
+
+.container {
+  position: fixed;
+  background-color: $primary;
+  width: 100%;
+  padding: 10px;
+}
+
+.title {
+  color: $secondary;
+}
